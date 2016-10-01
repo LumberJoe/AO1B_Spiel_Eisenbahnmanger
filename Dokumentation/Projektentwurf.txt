@@ -1,1 +1,18 @@
-Dies ist der Projektentwurf
+[Grundidee, Aufbau und Einstellungen des Spielers], v_[1.0], [2016-10-01]
+
+--Grundidee--
+
+Der Spieler soll ein Netz von Bahntrassen aufbauen, über die sie dann Züge mit 
+verschiedenen Waggons fahren  lassen. 
+
+--Aufbau--
+Das Spiel besteht aus 2 verschiedenen Spielmodi.
+Der Spieler kann zunächst in einem kreativmodus seine gewünschten Schienen verlegen  und
+kann mit verschiedenen Arten ein komplexes Schienennetz errichten. Nachdem der kreativmodus 
+abgeschlossen ist, sucht sich der Spieler seine Log aus. Ausserdem verfügt der Spieler über
+verschiedene Optionen bei der Auswahl der Waggons. Hat der Spieler seine Auswahl getroffen, 
+beginnt der Spielmodus und der Spieler kann er seine fertigen Züge über das gebaute Schienennetz fahren lassen. 
+
+--Änderung--
+Hat der Spieler Änderungswünsche oder möchte sogar ein neues Schienennetz errichten, so kann er 
+jederzeit vom  Spielmodus in den Kreativmodus wechseln.
