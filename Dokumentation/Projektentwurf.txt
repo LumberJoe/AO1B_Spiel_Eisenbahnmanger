@@ -1,3 +1,15 @@
+[Auflistung der Spielaktionen], v_[1.0], [2016-10-05]
+
+- Schiene legen
+- Schiene entferenen
+- Schiene drehen 
+- Lok fahren lassen
+- Lok anhalten
+- 
+
+
+
+
 [Spielinitialisierung], v_[1.0], [2016-10-05]
 
 - Spieler sucht sich die zu bebauende Karte aus
@@ -6,10 +18,6 @@
 - Fertigstellung des Schienennetztes 
 - Auswahl der Lok (inkl. Waggons) oder Zuteilung durch ein Zufallsverfahren 
 - Der Spieler kann nun sein Schienennetz befahren
-
-
-
-
 
 
 
@@ -23,11 +31,11 @@ verschiedenen Waggons fahren  lassen.
 
 --Aufbau--
 Das Spiel besteht aus 2 verschiedenen Spielmodi.
-Der Spieler kann zunächst in einem kreativmodus seine gewünschten Schienen verlegen  und
-kann mit verschiedenen Arten ein komplexes Schienennetz errichten. Nachdem der kreativmodus 
-abgeschlossen ist, sucht sich der Spieler seine Log aus. Ausserdem verfügt der Spieler über
-verschiedene Optionen bei der Auswahl der Waggons. Hat der Spieler seine Auswahl getroffen, 
-beginnt der Spielmodus und der Spieler kann er seine fertigen Züge über das gebaute Schienennetz fahren lassen. 
+Der Spieler kann zunächst in einem Kreativmodus seine gewünschten Schienen verlegen  und
+kann mit verschiedenen Arten ein komplexes Schienennetz errichten. Nachdem der Kreativmodus 
+abgeschlossen ist, sucht sich der Spieler seine Lok aus. Ausserdem verfügt der Spieler über
+eine Auswahl an verschiedenen Waggons. Hat der Spieler seine Auswahl getroffen, 
+beginnt der Spielmodus und der Spieler kann seine fertigen Züge über das gebaute Schienennetz fahren lassen. 
 
 --Änderung--
 Hat der Spieler Änderungswünsche oder möchte sogar ein neues Schienennetz errichten, so kann er 
