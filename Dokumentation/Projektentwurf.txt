@@ -1,3 +1,19 @@
+[Spielinitialisierung], v_[1.0], [2016-10-05]
+
+- Spieler sucht sich die zu bebauende Karte aus
+- Daraufhin sucht er sich die Schienen aus, die er verlegen möchte
+- Der Spieler errichtet sich sein individuelles Schienennetz
+- Fertigstellung des Schienennetztes 
+- Auswahl der Lok (inkl. Waggons) oder Zuteilung durch ein Zufallsverfahren 
+- Der Spieler kann nun sein Schienennetz befahren
+
+
+
+
+
+
+
+
 [Grundidee, Aufbau und Einstellungen des Spielers], v_[1.0], [2016-10-01]
 
 --Grundidee--
