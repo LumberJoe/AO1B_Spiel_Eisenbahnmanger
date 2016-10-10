@@ -1,3 +1,22 @@
+[Ergänzung eines Beispiels für Technologie], v_[1.01], [2016-10-10]
+
+---Technologiebaum wie folgt Aufgefächert
+Bsp:     
+      Bereiche:          Technik          Kundenzufriedenheit       Personal       Umwelt
+      
+      Level n+1
+        1                   1                                          1
+        2
+        3                                          3
+        4
+        5                                                                             5
+        6
+
+
+
+
+
+
 [Einzelne Spielelemente und Spielverlauf/Aufbau], v_[1.01], [2016-10-10]
 
 Karte
@@ -26,14 +45,16 @@ Züge und Aufgaben
 Waggons
 -Nach der Zugauwahl erfolgt die Auswahl der Waggons
 -Waggons: Lang, Kurz, Bistro, Schlafwaggon, Güterwaggons, Personenwaggon, etc.
--Der Spieler kann zwischen 0 und 8 Waggons an seine Züge hängen, jedoch zu Anfang nur 2. Mehr Waggons 
-lassen sich durch erledigen der Aufgaben freischalten
+-Der Spieler kann zwischen 0 und 8 Waggons an seine Züge hängen, jedoch zu Anfang nur 2. 
+-Mehr Waggons lassen sich durch erledigen der Aufgaben freischalten
 +
 ................
 Technologie
 -Durch Punkte die der Spieler beim Spielen erhält, lassen sich auch neue Technologien erforschen 
--Dadurch steigert sich der Wert der verdienten Punkte im Spiel und der Spieler steigt schneller auf
--Auffächerung in einen Technologiebaum für: Technik, Kundenzufriedenheit, Personal, Umwelt
+-Dadurch erhält er Bonuspunkte bei erledigten Aufgaben
+-Auffächerung in einen Technologiebaum für die Bereiche:
+ Technik, Kundenzufriedenheit, Personal, Umwelt
+................
 +
 ................
 Ranglisten
