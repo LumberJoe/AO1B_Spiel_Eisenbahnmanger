@@ -1,3 +1,61 @@
+[Einzelne Spielelemente und Spielverlauf/Aufbau], v_[1.01], [2016-10-10]
+
+Karte
+-Der Start beginnt zunächst auf einer leeren Karte
+-Auswahl an verschiedenen Kartengrößen: klein, mittel, groß
+-Auswahl der Gegebenheiten: Winter,Herbst,Frühling,Winter
+-Festlegung der Startposition: Nord, Ost, West, Süd
+-Flora und Fauna wird vom Computer festgelegt und sind immer vorhanden: Bäume, Berge, Seen, Flüsse
+-Ansicht Vogelperspektive
++
+.............
+Schienennetz
+-Nachdem der Spieler seine Voreinstellungen (Karte) getroffen hat, beginnt der Bau des Schienennetzes
+-Hier gibt es eine Auswahl an Schienen: lang, kurz, Gerade, Linkskurve, Rechtskurve, Weiche,
+-Der Spieler kann zu Anfang nur 50 Schienen verlegen, doch auch hier ist die Freischaltung 
+von mehr Schienen durch Erledigung der Aufgaben möglich
++
+.............
+Züge und Aufgaben
+-Auswahl der Anzahl an Zügen die auf der Strecke fahren (1-4)
+-Auswahl der Modelle: Güterzug, Personenzug, Wartung.. etc.
+-Je nach Auswahl der Züge bekommt der Spieler Aufgaben zugeteilt
+-Erledigt er eine Aufgabe, bekommt er Punkte ( Aufstieg in der Rangliste) und schaltet neue Waggons,Züge und Karten frei
++
+..............
+Waggons
+-Nach der Zugauwahl erfolgt die Auswahl der Waggons
+-Waggons: Lang, Kurz, Bistro, Schlafwaggon, Güterwaggons, Personenwaggon, etc.
+-Der Spieler kann zwischen 0 und 8 Waggons an seine Züge hängen, jedoch zu Anfang nur 2. Mehr Waggons 
+lassen sich durch erledigen der Aufgaben freischalten
++
+................
+Technologie
+-Durch Punkte die der Spieler beim Spielen erhält, lassen sich auch neue Technologien erforschen 
+-Dadurch steigert sich der Wert der verdienten Punkte im Spiel und der Spieler steigt schneller auf
+-Auffächerung in einen Technologiebaum für: Technik, Kundenzufriedenheit, Personal, Umwelt
++
+................
+Ranglisten
+-Die Rangliste ist zunächst von 1 (Schienenleger) bis 10 (Eienbahnmanager) skaliert.
+-Der Highscore des Spielers wird während des Spiels dauerhaft angezeigt
+-Erledigt er eine Aufgabe, so steigt seine Punktzahl und sein Rang
+-Der Spieler erhält durch seine Handlungen im Spiel Punkte ( Ausbau des Schienennetzes, Ausbau der Züge und Waggons, Erledigung von    Aufgaben)
+-Ziel des Spiels ist es, Eisenbahnmanager zu werden
++
+Krativ und Spielmodus
+-Das Spiel ist geteilt in einen Kreativmodus und in einen Spielmodus
+-Im Kreativmodus kann der Spieler Schienen verlegen, die Karte verändern, die Zug-und Waggonauswahl treffen,
+ seine Technologiepunkte neu verteilen
+-Im Spielmodus kann der Spieler mit seinen Zügen fahren und seine Aufgaben erledigen 
+
+
+...........
+
+
+
+
+
 [Auflistung der Spielaktionen], v_[1.0], [2016-10-05]
 
 - Schiene legen
