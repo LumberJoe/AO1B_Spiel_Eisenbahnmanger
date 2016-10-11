@@ -118,3 +118,74 @@ beginnt der Spielmodus und der Spieler kann seine fertigen Züge über das gebau
 --Änderung--
 Hat der Spieler Änderungswünsche oder möchte sogar ein neues Schienennetz errichten, so kann er 
 jederzeit vom  Spielmodus in den Kreativmodus wechseln.
+
+===================================
+=== Feedback Alpers, 2016-10-11 ===
+===================================
+
+=== 1.) Inhaltliches ===
+
+1.1.) Um den Einstieg für neue Teammitglieder zu erleichtern wäre eine kurze Zusammenfassung bzw. der Titel des Projekts am Anfang des Dokuments gut.
+
+1.2.) Die Tabelle mit dem Technologiebau ist nicht selbsterklärend. Sie dürfte auch eher zu den Funktionalitäten gehören.
+
+1.3.) Momentan ist es schwierig, aus der Aufstellung die Struktur abzuleiten, weil Sie verschiedene Bereich mischen.
+Bsp.:
+
+Spielfeld
+a) -Auswahl an verschiedenen Spielfeldgrößen: klein, mittel, groß
+b) -Auswahl der Gegebenheiten: Winter,Herbst,Frühling,Winter
+c) -Festlegung der Startposition: Nord, Ost, West, Süd
+d) -Flora und Fauna wird vom Computer festgelegt und sind immer vorhanden: Bäume, Berge, Seen, Flüsse
+e) -Ansicht Vogelperspektive
+
+Denn was Sie hier beschreiben ist weniger das Spielfeld als vielmehr die unterschiedlichen Eigenschaften, die bei einem klassenbasierten objektorientierten Programmentwurf sinnvoll wären. Außerdem gehen Sie auf Generatorfunktionen ein.
+
+Punkt a) beinhaltet vielmehr die Aufstellungen, die später in einem Menü zu programmieren wären.
+Punkt b) dito.
+Punkt c) beschränkt die Anzahl Spieler pro Partie auf vier Personen. Das ist schlecht.
+Punkt d) siehe Punkte a) und b)
+Punkt e) Design.
+
+Dagegen fehlen einige wichtige Aspekte für ein Eisenbahnnetz: Eisenbahnen verbinden Orte. Ob es sich bei den Orten um Städte, Produktionsstandorte, Häfen, Rohstoffabbaustandorte oder was auch immer handelt, lassen ich hier mal außen vor. Aber das ist der springende Punkt bei jeder logistischen Einrichtung. Dementsprechend fehlt in Ihrer Aufstellung des Spielfelds der wichtigste Punkt: Die Orte die verbunden werden, und wie die Verbindungen dazwischen sich auf dem Spielfeld wiederfinden.
+
+Mit den Punkten a) b) und d) haben Sie zwar etwas wichtiges angesprochen, aber im Kern sind das alles Bedingungen die sich entweder auf das Spiel auswirken, indem die Fahrt auf Verbindungen zwischen zwei Orten länger oder kürzer dauern oder indem der Bau eines Streckenabschnitts länger bzw. kürzer dauert oder gar nicht möglich ist.
+
+1.4.) Ähnliches findet sich bei Ihren Beschreibungen durchgehend. Sie sind da noch zu nah an einer Beschreibung im Sinne von Marketingmaterial und noch nicht nah genug an einer Beschreibung, die eine gute Grundlage zur Umsetzung als Softwareprojekt ist.
+
+1.5.) Hier ein weiteres Beispiel:
+
+Züge und Aufgaben
+a) -Auswahl der Anzahl an Zügen die auf der Strecke fahren (1-4)
+b) -Auswahl der Modelle: Güterzug, Personenzug, Wartung.. etc.
+c) -Je nach Auswahl der Züge bekommt der Spieler Aufgaben zugeteilt
+d) -Erledigt er eine Aufgabe, bekommt er Punkte ( Aufstieg in der Rangliste) und schaltet neue Waggons,Züge und Karten frei
+
+Hier haben Sie insbesondere das Problem, dass Sie zwei unabhängige Teile gemeinsam notiert haben: Züge einerseits und Aufgaben andererseits.
+
+Wenn Sie versuchen würden, dass in der Struktur umzusetzen, dann würden Sie Probleme bekommen, denn 
+
+Alle vier Punkte sind im Kern Regeln und sagen nichts über die Komponenten des Spiels aus.
+
+1.6.) Trennung von zusammen gehörenden Teilen
+
+Wenn das Spielfeld die verschiedenen Landschaftstypen enthalten soll, dann macht es wenig Sinn, das Schienennetz nicht ins Spielfeld zu integrieren. Prüfen Sie hier und an anderen Stellen bitte, ob Sie ggf. getrennte Bereiche wieder zusammen führen sollten.
+
+1.7.) Zusammenfassung
+
+Formal sieht das gut aus, weil Sie jeweils einzelne Punkte klar voneinander getrennt haben.
+
+Inhaltlich ist es problematisch, weil Sie nicht klar zwischen Regeln und Komponenten des Spiels trennen. (Deshalb nur 2 und keine 5 Punkte.)
+
+Außerdem trennen Sie teilweise auf, wo das nicht nützlich ist.
+
+=================================================
+=== Wertung 2: Projektentwurf: gesamt: 2 / 10 ===
+=================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 2
+- Pro Strategie des Computers, die die individuellen Züge des Spielers adaptiert 0 bis 5 Pk.: 0
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.:
+- Designaspekte -5 bis 0 Pk.:
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.:
+(Dies ist keine abschließende Wertung.)
