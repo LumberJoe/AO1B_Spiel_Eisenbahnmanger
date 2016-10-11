@@ -20,7 +20,7 @@ Bsp:
 [Einzelne Spielelemente und Spielverlauf/Aufbau], v_[1.01], [2016-10-10]
 
 Spielfeld
--Auswahl an verschiedenen Kartengrößen: klein, mittel, groß
+-Auswahl an verschiedenen Spielfeldgrößen: klein, mittel, groß
 -Auswahl der Gegebenheiten: Winter,Herbst,Frühling,Winter
 -Festlegung der Startposition: Nord, Ost, West, Süd
 -Flora und Fauna wird vom Computer festgelegt und sind immer vorhanden: Bäume, Berge, Seen, Flüsse
