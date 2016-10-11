@@ -19,8 +19,7 @@ Bsp:
 
 [Einzelne Spielelemente und Spielverlauf/Aufbau], v_[1.01], [2016-10-10]
 
-Karte
--Der Start beginnt zunächst auf einer leeren Karte
+Spielfeld
 -Auswahl an verschiedenen Kartengrößen: klein, mittel, groß
 -Auswahl der Gegebenheiten: Winter,Herbst,Frühling,Winter
 -Festlegung der Startposition: Nord, Ost, West, Süd
