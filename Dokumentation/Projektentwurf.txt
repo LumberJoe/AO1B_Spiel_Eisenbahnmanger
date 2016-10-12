@@ -1,3 +1,19 @@
+[Spielbeschreibung / Kleine Anmerkung], v_[1.1], [2016-10-12]
+
+Eisenbahnmanager
+
+In Deutschland hat die Deutsche Bahn Insolvenz angemeldet und das Streckennetz in ganz Deutschland ist komplett zusammengebrochen.
+Durch das fehlende Geld hat das Unternehmen sämtliche Schienennetze in den vergangenen Jahren verfallen lassen, sodass die alten Schienen unbefahrbar geworden sind.
+Das Ziel des Spielers ist, in Deutschland ein neues Streckennetz auszubauen und dabei einen möglichst hohen Geldbetrag zu erzielen.
+
+Anmerkung
+Ideen für spätere Weiterentwicklung : 
+-Internationale Anbindungen
+-Schnellzüge 
+-Einbindung von Produktion und Warenwirtschaft 
+
+
+
 
 [Präzise Erklärung der Spielelemente NEU!], v_[1.1], [2016-10-12]
 
