@@ -1,3 +1,66 @@
+
+[Präzise Erklärung der Spielelemente NEU!], v_[1.1], [2016-10-12]
+
+Spielfeld und Schienennetz
+-Das Spielfeld besteht aus dem Grundriss der Deutschlandkarte (Bundesländer und Großstädte sind bereits eingezeichnet)
+-Auswahl der Gegebenheiten: Winter, Herbst, Frühling, Sommer (siehe Aufgaben & Ereignisse)
+-Festlegung der Startposition: Nord (Hamburg), Ost(Berlin), West(Dortmund), Süd(München)
+--> Ausgangsbahnhöfe sind in verschiedene Preiskategorien eingeteilt, je teurer ein Bahnhof, desto besser sind
+ seine Anbindungsmöglichkeiten zu anderen Großstädten
+-Zu Beginn des Spiels befinden sich keinerlei Schienen auf dem Spielfeld 
+-Der Spieler kann Städte beliebig miteinander verbinden, muss dabei allerdings nächstliegende (Klein)-Städte durchfahren
+-Der Streckenausbau erfolgt stationär. Beispiel:
+Um eine Strecke von Hamburg nach Dortmund aufzubauen, müssen zuerst die Zwischenstationen Hamburg-> Bremen, Bremen-> Osnabrück, Osnabrück-> Münster und Münster-> Dortmund bebaut werden.
+-Pro Zwischenstation muss ein fester Baupreis von x (GE) gezahlt werden.
++
+..............
+Züge und Waggons
+-Zu Beginn des Spiels erhält der Spieler ein Startkapital von x (GE), eine Lok und einen Waggon
+-Waggons können mit (GE) erkauft und in unbegrenzter Anzahl an die Lok(s) gekoppelt werden 
+-Der Spieler kann durch erledigte Aufgaben weitere Loks und Waggons freischalten
+-Pro Strecke darf nur eine Lok ( + x Waggons ) fahren 
++
+...............
+Aufgaben und Ereignisse 
+-Der Computer generiert während des Spiels Aufgaben und Ereignisse
+Aufgaben --->> Multiple Choice Quiz zum Thema : Bahn, Bahnhöfe, Züge. etc
+-Durch erledigte Aufgaben bekommt der Spieler GE (Aufstieg in der Rangliste) und schaltet neue Waggons und Züge frei
+Ereignisse --> Der Spieler erhält zufällig vom Computer generierte Ereigniskarten, welche sich sowohl negativ, als 
+auch positiv auf den Spielverlauf auswirken können (z.B. Winter: vereiste Gleise --> Verspätung,= -GE // Unfälle// Unwetter//
+Fussball WM --> automatische Verdopplung der Fahrgäste= +GE etc.)
++
+................
+Einnahmen
+-Bei Ankunft am Endpunkt gibt es X (GE) pro Waggon x die Stationen, die durchfahren worden sind.
+---> Je länger die Strecke, desto mehr Zwischenstationen, desto mehr (GE)
++
+................
+Ranglisten
+-Die Rangliste ist online einsehbar 
+-Hier stehen die Ergebnisse der einzelnen Spieler 
+-Je mehr (GE) der Spieler besitzt, desto höher liegt er auf der Rangliste 
+-Der Rang des Spielers wird während des Spiels dauerhaft angezeigt
++
+...............
+Krativ und Spielmodus
+-Das Spiel ist geteilt in einen Kreativmodus und in einen Spielmodus
+-Im Kreativmodus kann der Spieler Schienen verlegen und seine Zug und Waggonverteilung anpassen (das Spiel wird angehalten) 
+-Im Spielmodus kann der Spieler seine Züge fahren lassen, (GE) erhalten und Aufgaben absolvieren 
+
+
+// Der Technologiebaum sei im folgenden gelöscht! 
+
+
+
+
+
+
+
+
+
+
+
+
 [Ergänzung eines Beispiels für Technologie], v_[1.01], [2016-10-10]
 
 ---Technologiebaum wie folgt Aufgefächert
