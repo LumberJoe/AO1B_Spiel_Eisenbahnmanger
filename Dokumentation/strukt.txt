@@ -1,1 +1,30 @@
+===========================================================
+        === Strukturelle Elemente, [23.10.2016] ===
+===========================================================
+
+== 01 Schaltflächen ==
+01_00 Anmelden / Nutzer loggt sich in sein Spiel ein
+01_01 Waggons / Nutzer sucht Waggons aus 
+01_02 Lok / Nutzer sucht Lok aus 
+01_03 Streckenwahl / Nutzer sucht die zu bebauende Strecke aus 
+01_04 Bahnhöfe / Nutzer sucht sich den "Heimat" Bahnhof aus 
+01_05 Aufgaben / Nutzer fordert neue zu erfüllende Aufgaben an
+01_06 Rangliste / Spieler erhält überblick über die Rangliste 
+01_07 Kreativmodus / Spieler wählt Modus aus
+01_08 Spielmodus / Spieler wählt Modus aus 
+
+== 02 input/date ==
+02_01 type=date / Eingabe des Geburtsdatums
+
+== 03 input/text ==
+03_01 type=text / Eingabe des Nutzernamens
+
+== 04 input/password ==
+04_01 type=password / Eingabe der fünfstelligen Pin
+04_02 type=password / Eingabe des Passworts (min 8. Zeichen) 
+
+== 05 Hyperlink ==
+05_01 Spielinfo / Nutzer erhält nähere Informationen zum Spielfortschritt ( Beispielsweise prozentualer Fortschritt bei Baustellen)
+05_02 Hintergrundinfo / Nutzer erhält geschichtliche Hintergrundinformationen zu Städten, Strecken, Waggons, Zügen etc.
+
 
