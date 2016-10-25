@@ -12,9 +12,6 @@ Ideen für spätere Weiterentwicklung :
 -Schnellzüge 
 -Einbindung von Produktion und Warenwirtschaft 
 
-
-
-
 [Präzise Erklärung der Spielelemente NEU!], v_[1.1], [2016-10-12]
 
 Spielfeld und Schienennetz
@@ -63,19 +60,7 @@ Krativ und Spielmodus
 -Im Kreativmodus kann der Spieler Schienen verlegen und seine Zug und Waggonverteilung anpassen (das Spiel wird angehalten) 
 -Im Spielmodus kann der Spieler seine Züge fahren lassen, (GE) erhalten und Aufgaben absolvieren 
 
-
 // Der Technologiebaum sei im folgenden gelöscht! 
-
-
-
-
-
-
-
-
-
-
-
 
 [Ergänzung eines Beispiels für Technologie], v_[1.01], [2016-10-10]
 
@@ -267,4 +252,35 @@ Außerdem trennen Sie teilweise auf, wo das nicht nützlich ist.
 - Werbeslogans u.ä. -5 bis 0 Pk.:
 - Designaspekte -5 bis 0 Pk.:
 - Voraussetzung bekannten Wissens -5 bis 0 Pk.:
+(Dies ist keine abschließende Wertung.)
+
+===================================
+=== Feedback Alpers, 2016-10-11 ===
+===================================
+
+=== 1.) Inhaltliches
+
+== 1.1.) Mischung von Inhalt und Abläufen
+
+Sie haben sich hier gut auf den Entwurf ohne die Struktur konzentriert. Inhaltlich haben Sie schon mehr als ausreichend gearbeitet, für die nächsten Schritte (Entwicklung der Struktur sowie die Umsetzung in Code, bzw. die Integration der Funktionalitäten) ist Ihre Aufstellung aber noch nicht so gut geeignet: Momentan sind die Beschreibungen der einzelnen Funktionalitäten und die der einzelnen Inhalte vermischt.
+
+Bitte trennen Sie die beiden, sodass eine Liste der Inhalte und eine Liste der Funktionalitäten herauskommt. (Den bisherigen Stand aber bitte nicht löschen; der kann zu einem späteren Zeitpunkt noch nützlich sein.)
+
+=== 2.) Verteilte Anwendung
+
+Momentan ist noch nicht erkennbar, wie das ganze als verteilte Anwendung funktioniert, sprich was passiert, wenn Spieler gemeinsam auf einer Karte aktiv sind?
+
+=== 3.) Adaptive Anwendung
+
+Auch hierauf gehen Sie noch nicht ein.
+
+=================================================
+=== Wertung 2: Projektentwurf: gesamt: 5 / 10 ===
+=================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 5 
+- Pro Strategie des Computers, die die individuellen Züge des Spielers/Nutzers adaptiert 0 bis 5 Pk.: 0 
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.: 0 
+- Designaspekte -5 bis 0 Pk.: 0 
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.: 0 
 (Dies ist keine abschließende Wertung.)

@@ -27,4 +27,35 @@
 05_01 Spielinfo / Nutzer erhält nähere Informationen zum Spielfortschritt ( Beispielsweise prozentualer Fortschritt bei Baustellen)
 05_02 Hintergrundinfo / Nutzer erhält geschichtliche Hintergrundinformationen zu Städten, Strecken, Waggons, Zügen etc.
 
+===================================
+=== Feedback Alpers, 2016-10-11 ===
+===================================
 
+=== 1.)
+Wie in der Datei zum Projektentwurf geschrieben stellen, trennen Sie bitte zunächst die Teile des Entwurfs auf, bevor Sie hier weitermachen. Das wird Ihnen die Entwicklung der Struktur deutlich erleichtern.
+
+=== 2.) 
+Leider haben Sie bei den Schaltflächen einen typischen Fehler gemacht, der darauf basiert, dass unterschiedliche strukturelle Elemente wie eine Schaltfläche aussehen:
+
+01_00 Anmelden / Nutzer loggt sich in sein Spiel ein
+Das ist keine Schaltfläche, sondern ein input-Typ eines Formulars.
+
+01_08 Spielmodus / Spieler wählt Modus aus 
+Das wird eher ein Radio-Button sein.
+
+01_06 Rangliste / Spieler erhält überblick über die Rangliste 
+Das sieht nach einem Link aus.
+
+=== 3.) Genereller Hinweis bezüglich Links: 
+(Die Betonung hier liegt auf dem Wort Hinweis. Das ist also kein Fehler oder Mangel, sondern ein Tipp.)
+
+Mit einem Link springen Sie meist in eine andere Ansicht. Da Sie die Ansichten erst deutlich später entwickeln (sollten), prüfen Sie bitte, ob Sie ggf. schon an Ansichten denken oder nicht.
+
+================================================================
+=== Wertung 3: Ausarbeitung der strukt. Elem. gesamt: 4 / 10 ===
+================================================================
+- Knappe Form (0 - 3 Pk.): 3
+- Für je 5 unterschiedl. strukt. Elem (keine Gruppierungen) 1 Pk.: 1
+=== (Malus bei strukt. Elem.) ===
+- Vermischung strukt. Elem., Gruppierung, Abläufe usw. -5 bis 0 Pk.: 0 
+(Dies ist keine abschließende Wertung.)
