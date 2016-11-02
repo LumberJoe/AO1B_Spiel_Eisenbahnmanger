@@ -19,11 +19,11 @@ können im Mehrspielermodus die Spieler durch vom Computer generierte Minispiele
 -	Es gibt 2 verschiedene Spielmodi ( Einzel und Mehrspieler ) 
 -	Im Einzelspieler ist der Spielaufbau ohne weitere Änderung so wie unten beschrieben 
 -	Mehrspielermodus: 
-Es können bis zu 4 Spieler gleichzeitig auf einem Spielfeld gegeneinander antreten 
-Ziel dabei ist es, das größte Streckennetz zu erschaffen 
-Jeder Spieler bekommt eine Farbe zugeteilt, Beispiel : Spieler 1. Rot, Spieler 2 Grün etc 
-Jeder Spieler bekommt zu beginn einen Heimatbahnhof per Zufallsprinzip zugeteilt
--	Die Spieler können nur Ihre eigens ausgebauten Strecken befahren, die in Ihrer Farbe markiert werden ( Spieler 1 rot, kann nur rot markierte Strecken befahren) 
+- Es können bis zu 4 Spieler gleichzeitig auf einem Spielfeld gegeneinander antreten 
+- Ziel dabei ist es, das größte Streckennetz zu erschaffen 
+- Jeder Spieler bekommt eine Farbe zugeteilt, Beispiel : Spieler 1. Rot, Spieler 2 Grün etc 
+- Jeder Spieler bekommt zu beginn einen Heimatbahnhof per Zufallsprinzip zugeteilt
+-	Die Spieler können nur Ihre eigens ausgebauten Strecken befahren, die in Ihrer Farbe markiert werden ( Spieler 1 rot, kann nur rot    markierte Strecken befahren) 
 -	Eine Strecke kann nicht doppelt bebaut werden, d. H die anderen Spieler müssen eine Alternativroute wählen
 
 
