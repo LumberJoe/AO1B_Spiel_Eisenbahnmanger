@@ -1,3 +1,68 @@
+[Ergänzung um Adaptives, Verteilte Anwendung, Aufteilung von Inhalt und Funktionalitaeten], v_[1.12], [2016-11-02]
+
+
+--- Adaptives ---
+
+- Der Computer kann unter anderem über Preisregulierungen das voranschreiten des Spielers kontrollieren
+
+- Ist ein Spieler „zu gut“ , kann durch Zufallsereignisse ( Naturkatastrophen, Streiks,  Konjunkturschwankungen etc. ) sein Fortschritt reguliert werden 
+
+- Ist der Spieler  „eher schwach“ so können auch positive Zufallsereignisse seinen Fortschritt regulieren ( Subventionen,  Umweltbewussteres denken der Bevölkerung etc. ) 
+
+- Zusätzlich zu den Ereignissen die im Einzel und Mehrspielermodus stattfinden, 
+können im Mehrspielermodus die Spieler durch vom Computer generierte Minispiele gegeneinander antreten ( Quiz, Zusatzaufgaben (InGame) ) 
+
+
+
+--- Verteilte Anwendung ---
+
+-	Es gibt 2 verschiedene Spielmodi ( Einzel und Mehrspieler ) 
+-	Im Einzelspieler ist der Spielaufbau ohne weitere Änderung so wie unten beschrieben 
+-	Mehrspielermodus: 
+Es können bis zu 4 Spieler gleichzeitig auf einem Spielfeld gegeneinander antreten 
+Ziel dabei ist es, das größte Streckennetz zu erschaffen 
+Jeder Spieler bekommt eine Farbe zugeteilt, Beispiel : Spieler 1. Rot, Spieler 2 Grün etc 
+Jeder Spieler bekommt zu beginn einen Heimatbahnhof per Zufallsprinzip zugeteilt
+-	Die Spieler können nur Ihre eigens ausgebauten Strecken befahren, die in Ihrer Farbe markiert werden ( Spieler 1 rot, kann nur rot markierte Strecken befahren) 
+-	Eine Strecke kann nicht doppelt bebaut werden, d. H die anderen Spieler müssen eine Alternativroute wählen
+
+
+--- Inhalt ---
+- Das Spielfeld besteht aus dem Grundriss der Deutschlandkarte
+- Festlegung der Startposition
+- Auswahl der Gegebenheiten
+- Zu Beginn des Spiels befinden sich keinerlei Schienen auf dem Spielfeld 
+
+- Pro Streckenausbau muss ein fester Baupreis von x (GE) gezahlt werden.
+- Zu Beginn des Spiels erhält der Spieler ein Startkapital von x (GE), eine Lok und einen Waggon
+- Waggons können mit (GE) erkauft und in unbegrenzter Anzahl an die Lok(s) gekoppelt werden 
+- Pro Strecke darf nur eine Lok ( + x Waggons ) fahren 
+
+- Der Computer generiert während des Spiels Aufgaben und Ereignisse
+- Bei Ankunft am Endpunkt gibt es X (GE) pro Waggon x die Stationen, die durchfahren worden sind
+
+- Die Rangliste ist online einsehbar 
+- Hier stehen die Ergebnisse der einzelnen Spieler 
+- Je mehr (GE) der Spieler besitzt, desto höher liegt er auf der Rangliste 
+- Der Rang des Spielers wird während des Spiels dauerhaft angezeigt
+
+- Das Spiel ist geteilt in einen Kreativmodus und in einen Spielmodus
+- Der Spieler kann durch erledigte Aufgaben weitere Loks und Waggons freischalten
+
+--- Funktionalitaeten ---
+
+- Der Spieler kann Städte beliebig miteinander verbinden, muss dabei allerdings nächstliegende (Klein)-Städte durchfahren
+- Der Streckenausbau erfolgt stationär.
+
+- Der Spieler kann durch erledigte Aufgaben weitere Loks und Waggons freischalten
+
+- Der Computer generiert während des Spiels Aufgaben und Ereignisse
+- Durch erledigte Aufgaben bekommt der Spieler GE (Aufstieg in der Rangliste) und schaltet neue Waggons und Züge frei
+
+- Im Kreativmodus kann der Spieler Schienen verlegen und seine Zug und Waggonverteilung anpassen (das Spiel wird angehalten) 
+- Im Spielmodus kann der Spieler seine Züge fahren lassen, (GE) erhalten und Aufgaben absolvieren 
+
+
 [Spielbeschreibung / Kleine Anmerkung], v_[1.1], [2016-10-12]
 
 Eisenbahnmanager
