@@ -1,3 +1,15 @@
+[Ergänzung des Punktes Adaptives], v_[1.12], [2016-11-03]
+
+Die folgenden Punkte sollen dem unten stehenden Punkt Adaptives hinzugefügt werden
+
+- Tritt ein neuer Spieler der Sitzung hinzu oder ist ein Streckenabschnitt fertiggestellt, so erfolgt ein Signal, in Form von Ton und einer Textmitteilung an die anderen Spieler 
+- Die Töne passt sich der jeweiligen Spielsituation an (Adaptation), ohne dass der Spieler die Änderungen bewusst bemerkt
+- Steigt der Spieler im Rang auf oder ab, so plopt ein Fenster mit einer Benachrichtigung auf 
+
+
+
+
+
 [Ergänzung um Adaptives, Verteilte Anwendung, Aufteilung von Inhalt und Funktionalitaeten], v_[1.12], [2016-11-02]
 
 
