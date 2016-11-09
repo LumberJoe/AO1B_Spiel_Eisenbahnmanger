@@ -1,3 +1,16 @@
+[Adaptives NEU und ergänzt!], v_[1.12], [2016-11-09]
+-Der Computer speichert das Verhalten des Spielers 
+-- Dadurch kann er im Verlauf des Spiels für jeden Spieler individuell Aufgaben erstellen und diese an den Schwierigkeitsgrad kontinuierlich anpassen 
+-Ebenfalls sollen die NPC's ( falls ausgewählt ) sich das Verhalten des Spielers/ der Spieler merken und im Spielverlauf ihr Verhalten anpassen 
+-Tritt ein neuer Spieler der Sitzung hinzu oder ist ein Streckenabschnitt fertiggestellt, so erfolgt ein Signal, in Form von Ton und einer Textmitteilung an die anderen Spieler 
+-Die Töne passt sich der jeweiligen Spielsituation an (Adaptation), ohne dass der Spieler die Änderungen bewusst bemerkt
+-Steigt der Spieler im Rang auf oder ab, so plopt ein Fenster mit einer Benachrichtigung auf 
+-Der Computer kann unter anderem über Preisregulierungen das voranschreiten des Spielers kontrollieren
+-Ist ein Spieler „zu gut“ , kann durch Zufallsereignisse ( Naturkatastrophen, Streiks,  Konjunkturschwankungen etc. ) sein Fortschritt reguliert werden 
+-Ist der Spieler  „eher schwach“ so können auch positive Zufallsereignisse seinen Fortschritt regulieren ( Subventionen,  Umweltbewussteres denken der Bevölkerung etc. ) 
+-Zusätzlich zu den Ereignissen die im Einzel und Mehrspielermodus stattfinden, 
+können im Mehrspielermodus die Spieler durch vom Computer generierte Minispiele gegeneinander antreten ( Quiz, Zusatzaufgaben (InGame) ) 
+
 [Ergänzung des Punktes Adaptives], v_[1.12], [2016-11-03]
 
 Die folgenden Punkte sollen dem unten stehenden Punkt Adaptives hinzugefügt werden
