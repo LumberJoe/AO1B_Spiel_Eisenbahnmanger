@@ -1,4 +1,53 @@
 ===========================================================
+        === Strukturelle Elemente NEU , [12.11.2016] ===
+===========================================================
+
+== 01 Schaltflächen ==
+
+01_00 Waggons / Nutzer sucht Waggons aus 
+01_01 Lok / Nutzer sucht Lok aus 
+01_02 Streckenwahl / Nutzer sucht die zu bebauende Strecke aus 
+01_03 Bahnhöfe / Nutzer sucht sich den "Heimat" Bahnhof aus 
+01_04 Aufgaben / Nutzer fordert neue zu erfüllende Aufgaben an
+01_05 Geldeinheiten / Nutzer erhält Überblick über seine gesammelten GE
+
+== 02 input/date ==
+
+02_01 type=date / Eingabe des Geburtsdatums
+
+== 03 input/text ==
+
+03_01 type=text / Eingabe des Nutzernamens
+03_02 Anmelden / Nutzer loggt sich mit seinem Namen in das Spiel ein 
+
+== 04 input/password ==
+
+04_01 type=password / Eingabe der fünfstelligen Pin
+04_02 type=password / Eingabe des Passworts (min 8. Zeichen) 
+
+== 05 Hyperlink ==
+
+05_01 Spielinfo / Nutzer erhält nähere Informationen zum Spielfortschritt ( Beispielsweise prozentualer Fortschritt bei Baustellen)
+05_02 Hintergrundinfo / Nutzer erhält geschichtliche Hintergrundinformationen zu Städten, Strecken, Waggons, Zügen etc.
+05_03 Rangliste / Spieler kommt auf die Ranglistenseite und kann sehen, wo er steht
+
+== 06 Radiobuttons ==
+
+06_01 Kreativmodus / Spieler wählt Modus aus
+06_02 Spielmodus / Spieler wählt Modus aus 
+06_03 Rangliste an/ Spieler bekommt Rangliste dauerhaft während des Spiels angezeigt
+06_04 Rangliste aus/ Spieler schaltet die eingeblendete Rangliste aus 
+
+== 07 input/submit ==
+
+07_01 submit
+
+== 07 input/reset ==
+
+08_01 reset / Spieler setzt seine Eingaben zurück
+
+
+===========================================================
         === Strukturelle Elemente, [23.10.2016] ===
 ===========================================================
 
@@ -26,7 +75,7 @@
 == 05 Hyperlink ==
 05_01 Spielinfo / Nutzer erhält nähere Informationen zum Spielfortschritt ( Beispielsweise prozentualer Fortschritt bei Baustellen)
 05_02 Hintergrundinfo / Nutzer erhält geschichtliche Hintergrundinformationen zu Städten, Strecken, Waggons, Zügen etc.
-
+05_03 Rangliste / Spieler erhält überblick über die Rangliste 
 ===================================
 === Feedback Alpers, 2016-10-11 ===
 ===================================
